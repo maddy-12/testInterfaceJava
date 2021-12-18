@@ -91,7 +91,7 @@ public class Interface_test extends JFrame {
 		lblValeurNom.setBounds(216, 103, 245, 16);
 		contentPane.add(lblValeurNom);
 		
-		JLabel lblValeurRef = new JLabel("02154869");
+		JLabel lblValeurRef = new JLabel("02154869MB");
 		lblValeurRef.setBounds(216, 147, 83, 16);
 		contentPane.add(lblValeurRef);
 		
